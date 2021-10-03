@@ -5,9 +5,9 @@
 
 **Curso:** GF-0618 FOTOGRAMETRÍA Y TELEDETECCIÓN
 
-Carnet: B92220
+**Carnet:** B92220
 
-Profesora: María José Molina Montero
+**Profesora:** María José Molina Montero
 
 
 ## Datos 
